@@ -1,1 +1,4 @@
 # BookStore-Management-System
+The BookStore Management System is a full-featured web application built to manage books, categories, publishers, users and customer orders in a streamlined and efficient way. It provides a clean and intuitive interface for browsing books, adding items to the cart, placing orders and managing user accounts. The goal of this project is to offer a practical end-to-end solution that simulates the workflow of a real online bookstore.
+
+The system includes a complete admin panel where administrators can manage inventory, update book details, handle categories and companies, assign roles and monitor orders. Built with ASP.NET MVC, Entity Framework, and SQL Server, it follows clean architecture principles using Repository and Unit of Work patterns to keep the codebase modular, maintainable and scalable.
